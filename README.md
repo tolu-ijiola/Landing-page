@@ -6,7 +6,7 @@ This is a landing page template built on top of **TailwindCSS** and fully coded 
 
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+Check the live demo here 👉️ https://tolu-ijiola.github.io/Landing-page/
 
 ## Design files
 
